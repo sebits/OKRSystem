@@ -1,0 +1,19 @@
+{
+  "name": "okr_system",
+  "version": "0.1.0",
+  "repository": "https://github.com/sebits/OKRSystem",
+  "author": "Justin Smith <justinasmith662@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
+    "commitlint": "^17.0.3",
+    "husky": "^8.0.0",
+    "jest": "^28.1.1"
+  }
+}
