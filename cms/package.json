@@ -9,10 +9,10 @@
     "@strapi/plugin-i18n": "4.2.0",
     "better-sqlite3": "7.4.6"
   },
-  "name": "cms",
-  "private": true,
+  "name": "okr_system_cms",
   "version": "0.1.0",
   "description": "A Strapi application",
+  "private": true,
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",

@@ -1,9 +1,10 @@
 {
-  "name": "OKRSystem",
-  "version": "1.0.0",
+  "name": "okr_system",
+  "version": "0.1.0",
   "repository": "https://github.com/sebits/OKRSystem",
   "author": "Justin Smith <justinasmith662@gmail.com>",
   "license": "MIT",
+  "private": true,
   "scripts": {
     "test": "jest",
     "prepare": "husky install"
